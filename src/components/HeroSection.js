@@ -14,7 +14,7 @@ function HeroSection (){
                     My Projects
                 </Button>
                 <Button className='btns' buttonStyle='btn--primary' buttonsSize='btn--large' >
-                    My Projects
+                    Contact Me
                 </Button>
             </div>
         </div>
