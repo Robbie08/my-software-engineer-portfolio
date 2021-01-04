@@ -7,6 +7,13 @@
     text-align: center;
   }
   
+  .cards__header {
+    font-size: 22px;
+    font-style: italic;
+    font-family: bold;
+    font-weight: 400;
+  }
+
   .cards__container {
     display: flex;
     flex-flow: column;
