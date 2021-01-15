@@ -17,21 +17,22 @@ function Footer(){
                         target='_blank'
                         aria-label='LinkedIn'
                         >
-                            <i className='fab fa-linkedin'></i>
+                        <a href="https://www.linkedin.com/in/roberto-ortiz-/" rel="noreferrer" target="_blank"><i className='fab fa-linkedin'></i></a>
+                            
                         </Link>
                         <Link className="social-icon-link instagram"
                         to='/'
                         target='_blank'
                         aria-label='Instagram'
                         >
-                            <i class="fab fa-instagram"></i>
+                        <a href="https://www.instagram.com/roberto.ortiz08/" rel="noreferrer" target="_blank"><i class="fab fa-instagram"></i></a>
                         </Link>
                         <Link className="social-icon-link Github"
                         to='/'
                         target='_blank'
                         aria-label='Github'
                         >
-                        <i class="fab fa-github-square"></i>
+                        <a href="https://github.com/Robbie08" rel="noreferrer" target="_blank"><i class="fab fa-github-square"></i></a>
                         </Link>
                     </div>     
                 </div>

@@ -84,8 +84,6 @@ function Cards(){
                     label='Project'
                     path='/services' />
 
-                    
-
                 </ul>
             </div>
         </div>

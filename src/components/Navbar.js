@@ -54,11 +54,8 @@ function Navbar() {
                         <li className='nav-item'>
                             <Link to='/github' className='nav-links' onClick={closeNavBar}>Github</Link>
                         </li>
-                        <li className='nav-item'>
-                            <Link to='/projects' className='nav-links-mobile' onClick={closeNavBar}>Projects</Link>
-                        </li>
                     </ul>
-                    { button && <Button buttonStyle='btn--outline'>Projects</Button> }
+                    { /*button && <Button buttonStyle='btn--outline'>Projects</Button>*/ }
                 </div>
             </nav>
         </>
