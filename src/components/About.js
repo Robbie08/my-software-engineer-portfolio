@@ -12,11 +12,10 @@ function About(){
                 in Computer Science</b>. My passion for Computer Science started with a simple 
                 Hello World program in C++. Since then, I have worked on countless <b>Mobile 
                 and Web applications</b>, allowing me to learn new languages, tools, and frameworks 
-                like <b>Java, JavaScript, React.js, Python, and Git</b>, and a couple of other ones.
+                like <b>Java, JavaScript, React.js, Python, Git</b>, and a couple of other ones.
                 I have recently started delving into the world of 
                 Artificial Intelligence and Natural Language Processing. 
                 </p>
-
                 <p className='about-bio-paragraph'>
                 I have worked at a local tutoring center specializing in Computer Science, 
                 Math, and Physics. Besides academics, I have also <b>worked as a Freelance 

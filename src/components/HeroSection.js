@@ -3,6 +3,7 @@ import { Button } from './Button';
 import '../App.css';
 import './HeroSection.css';
 
+
 function HeroSection (){
     return (
         <div className='hero-container'>
@@ -17,7 +18,9 @@ function HeroSection (){
                     Contact Me
                 </Button>
             </div>
+            <div className='hero-arrow-indicator'><i class="fas fa-arrow-circle-down"></i></div>
         </div>
+        
 
     )
 }
