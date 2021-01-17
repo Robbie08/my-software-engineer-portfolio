@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link, animateScroll as scroll } from "react-scroll";
 import './Navbar.css';
 
@@ -62,20 +62,40 @@ function Navbar() {
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
                             <Link 
-                                to='/'
-                                className='nav-links' 
+                                activeClass='active'
+                                to='home'
+                                className='nav-links'
+                                spy={true}
+                                smooth={true}
+                                offset={-70}
+                                duration={800} 
                                 onClick={scrollToTop}
                             >Home</Link>
                         </li>
                         <li className='nav-item'>
                             <Link 
-                                to='/'
+                                activeClass='active'
+                                to='my_projects'
                                 className='nav-links'
-                                onClick={scrollToTop}
+                                spy={true}
+                                smooth={true}
+                                offset={-70}
+                                duration={800}
+                                onClick={closeNavBar}
                             >My Projects</Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/resume' className='nav-links' onClick={closeNavBar}>About Me</Link>
+                            <Link 
+                                activeClass='active'
+                                to='about' 
+                                className='nav-links'
+                                spy={true}
+                                smooth={true}
+                                offset={-145}
+                                duration={700} 
+                                onClick={closeNavBar}
+                            
+                            >About Me</Link>
                         </li>
                     </ul>
                     { /*button && <Button buttonStyle='btn--outline'>Projects</Button>*/ }

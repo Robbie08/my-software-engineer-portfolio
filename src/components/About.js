@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css';
 function About(){
     return(
-        <div className='about-container'>
+        <div className='about-container' id='about'>
             <section className="about-header">
                 <h1>About Me</h1>
             </section>
