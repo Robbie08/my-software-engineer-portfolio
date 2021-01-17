@@ -5,8 +5,8 @@ function Footer(){
     return(
         <div className='footer-container'>
             <section className='footer-header'>
-                <p className='footer-header-heading'></p>
-                Connect with me on my social media accounts!
+                <p className='footer-header-heading'>Connect with me on my social media accounts!</p>
+                <p className='footer-header-subheading'>Email: rortiz8838@sdsu.edu</p>
             </section>
             <section className='social-media'>
                 <div className='social-media-wrap'>

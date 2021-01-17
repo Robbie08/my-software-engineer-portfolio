@@ -20,6 +20,13 @@ function Navbar() {
             setClick(!click);
         scroll.scrollToTop();
     }
+
+    // scrollTo
+    // const scrollToProjects = () => {
+    //     if(click === true)
+    //         setClick(!click);
+    //     scroll.scrollTo(890);
+    // }
     // create function that displays button 
     // const showButton = () => {
     //     if(window.innerWidth <= 960){
@@ -64,7 +71,7 @@ function Navbar() {
                             <Link 
                                 to='/'
                                 className='nav-links'
-                                onClick={closeNavBar}
+                                onClick={scrollToTop}
                             >My Projects</Link>
                         </li>
                         <li className='nav-item'>
