@@ -21,7 +21,7 @@ function Cards(){
                     are nice and structured. Feel free to download the application and interact with it. 
                     This application uses a real-time database, so you will always have the latest vehicles on your phone.'
                     label='Project'
-                    path='/services' />
+                    path='https://github.com/Robbie08/VehicleManager' />
 
                     <CardItem 
                     src='images/project-aiclub.png'
@@ -34,7 +34,7 @@ function Cards(){
                     improve the productivity and workflow of the project. My team and I 
                     presented the project to the A.I. Club at the end of the semester."
                     label='Club Affilication'
-                    path='/services' />
+                    path='https://github.com/Robbie08/income-prediction' />
 
                     <CardItem 
                     src='images/project-codeday-hackathon.jpg'
@@ -50,7 +50,7 @@ function Cards(){
                     insertion algorithm from O(N) to O(1) by 
                     implementing a Stack.'
                     label='Hackathon'
-                    path='/services' />
+                    path='https://www.codeday.org/' />
                 </ul>
                 <ul className='cards__items'>
                     <CardItem 
@@ -68,7 +68,7 @@ function Cards(){
                     the heroku server. Feel free to check it out and play 
                     around with the website I created."
                     label='Project'
-                    path='/services' />
+                    path='http://random-numbers-facts.herokuapp.com/' />
 
                     <CardItem 
                     src='images/project-parksmart.png'
@@ -82,7 +82,7 @@ function Cards(){
                     database for user and parking lot information
                      and also incorporates the Google Maps API.'
                     label='Project'
-                    path='/services' />
+                    path='https://github.com/Robbie08/ParkSmart' />
 
                 </ul>
             </div>
