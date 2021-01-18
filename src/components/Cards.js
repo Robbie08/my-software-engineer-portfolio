@@ -25,7 +25,7 @@ function Cards(){
 
                     <CardItem 
                     src='images/project-aiclub.png'
-                    title='SDSU A.I. Club-Project Lead'
+                    title='A.I. Club Project Lead'
                     text="I'm a project lead at the SDSU Artificial Intelligence Club.
                     I created and led a group of students by building a machine learning 
                     project. I held weekly meetings (through zoom) to discuss and 

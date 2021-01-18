@@ -35,7 +35,7 @@
   .cards__item {
     display: flex;
     flex: 1;
-    margin: 0 1rem;
+    margin: 1rem 3rem;
     border-radius: 10px;
   }
   
@@ -122,11 +122,18 @@
       width: 84%;
     }
   }
+
+  @media only screen and (max-width: 1200px){
+    .cards__item {
+      margin: 0 1rem;
+    }
+  }
   
   @media only screen and (min-width: 1024px) {
     .cards__items {
       display: flex;
     }
+    
   }
   
   @media only screen and (max-width: 1024px) {
@@ -134,3 +141,13 @@
       margin-bottom: 2rem;
     }
   }
+
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
+    .cards__item {
+      margin: 0 0rem;
+    }
+
+  } 
+
+  
