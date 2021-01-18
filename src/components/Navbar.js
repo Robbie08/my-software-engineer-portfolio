@@ -6,7 +6,6 @@ import './Navbar.css';
 function Navbar() {
     // we need to set a state to keep track of nav bar
     const [click, setClick] = useState(false);
-    // const [button, setButton] = useState(true);
     
     // create a function to handle the hamburger button click
     const handleClick = () => setClick(!click);
@@ -21,29 +20,6 @@ function Navbar() {
         scroll.scrollToTop();
     }
 
-    // scrollTo
-    // const scrollToProjects = () => {
-    //     if(click === true)
-    //         setClick(!click);
-    //     scroll.scrollTo(890);
-    // }
-    // create function that displays button 
-    // const showButton = () => {
-    //     if(window.innerWidth <= 960){
-    //         setButton(false);
-    //     }
-    //     else {
-    //         setButton(true);
-    //     }
-    // };
-
-    // include this use of hook to prevent the button from 
-    // appearing when application renders in mobile mode 
-    // useEffect(() => {
-    //     showButton();
-    // }, [] );
-
-    // window.addEventListener('resize', showButton);
     return(
         <>
             <nav className="navbar">
@@ -97,8 +73,17 @@ function Navbar() {
                             
                             >About Me</Link>
                         </li>
+
+                        <li className='nav-item'>
+                            <a 
+                                href='https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:42933822-0e96-4613-b231-c4385c9099c8'
+                                rel="noreferrer" 
+                                target="_blank"
+                                className='nav-links'
+                                onClick={closeNavBar}
+                            >View Resume</a>
+                        </li>
                     </ul>
-                    { /*button && <Button buttonStyle='btn--outline'>Projects</Button>*/ }
                 </div>
             </nav>
         </>
