@@ -12,6 +12,7 @@ export const Button = ({
     onClick, 
     buttonStyle, 
     buttonSize,
+    scrollTo,
 }) => {
     
     // designate what should the layout display
@@ -19,7 +20,14 @@ export const Button = ({
     const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
     return (
-        <Link to='/' className='btn-mobile' >
+        <Link 
+            activeClass='active'
+            to={scrollTo}
+            className='btn-mobile'
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={800}>
             <button 
                 className={`btn ${checkButtonStyle} ${checkButtonSize}`}
                 onClick={onClick}

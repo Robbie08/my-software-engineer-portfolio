@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 import './Footer.css';
 function Footer(){
     return(
-        <div className='footer-container'>
+        <div className='footer-container' id='contact'>
             <section className='footer-header'>
                 <p className='footer-header-heading'>Connect with me on my social media accounts!</p>
                 <p className='footer-header-subheading'>Email: rortiz8838@sdsu.edu</p>

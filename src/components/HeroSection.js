@@ -11,10 +11,10 @@ function HeroSection (){
             <h1>Hi, need a Software Engineer?</h1>
             <p>I am a motived student that is always looking for a challenge</p>
             <div className="hero-btns">
-                <Button className='btns' buttonStyle='btn--outline' buttonsSize='btn--large' >
+                <Button scrollTo='my_projects' className='btns' buttonStyle='btn--outline' buttonsSize='btn--large' >
                     My Projects
                 </Button>
-                <Button className='btns' buttonStyle='btn--primary' buttonsSize='btn--large' >
+                <Button scrollTo='contact' className='btns' buttonStyle='btn--primary' buttonsSize='btn--large' >
                     Contact Me
                 </Button>
             </div>

@@ -91,7 +91,7 @@ function Navbar() {
                                 className='nav-links'
                                 spy={true}
                                 smooth={true}
-                                offset={-145}
+                                offset={-115}
                                 duration={700} 
                                 onClick={closeNavBar}
                             
