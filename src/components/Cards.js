@@ -22,7 +22,17 @@ function Cards(){
                     path='https://github.com/Robbie08/VehicleManager' />
 
                     <CardItem 
-                    src='images/project-aiclub.png'
+                    src='images/work_TA.png'
+                    title='Computer Science T.A.'
+                    text="I am a Teaching Assistant at the Computer Science Department
+                    at San Diego State University. There I hold office hours where I can
+                    help students with any trouble they may have with the course material.
+                    I also spend time, grading programming assignments and exams."
+                    label='Work'
+                    path='https://www.linkedin.com/in/roberto-ortiz-/' />
+
+                    <CardItem 
+                    src='images/project-aiclub.jpg'
                     title='A.I. Club Project Lead'
                     text="I'm a project lead at the SDSU Artificial Intelligence Club.
                     I led a project where we used Data Maniupulation and Machine Leaning models to 
@@ -30,16 +40,6 @@ function Cards(){
                     label='Club Affilication'
                     path='https://github.com/Robbie08/income-prediction' />
 
-                    <CardItem 
-                    src='images/project-codeday-hackathon.jpg'
-                    title='Hackathon'
-                    text='Participated in the Codeday Hackathon 
-                    and won the "Best Mobile Application" award 
-                    out of 60 teams by creating a social motivation 
-                    Android Application. My team and I engineered a mobile 
-                    CRUD application using Java, Firebase, XML, and Agile.'
-                    label='Hackathon'
-                    path='https://www.codeday.org/' />
                 </ul>
                 <ul className='cards__items'>
                     <CardItem 
@@ -63,16 +63,17 @@ function Cards(){
                     path='https://github.com/Robbie08/ParkSmart' />
 
                     <CardItem 
-                    src='images/project-coin-search.png'
-                    title='Crypto Price Tracker'
-                    text="This website's intened purpose 
-                    is for crypto lovers to be able to search 
-                    crypto currency information as well as the 
-                    latests news articles relevant to anything crypto. I used
-                    Django, Python, Bootstrap, and the Crypto Compare API."
-                    label='Project'
-                    path=' https://github.com/Robbie08/CryptoWebApp' />
+                    src='images/project-codeday-hackathon.jpg'
+                    title='Hackathon'
+                    text='Participated in the Codeday Hackathon 
+                    and won the "Best Mobile Application" award 
+                    out of 60 teams by creating a social motivation 
+                    Android Application. My team and I engineered a mobile 
+                    CRUD application using Java, Firebase, XML, and Agile.'
+                    label='Hackathon'
+                    path='https://www.codeday.org/' />
                 </ul>
+            
             </div>
         </div>
     )

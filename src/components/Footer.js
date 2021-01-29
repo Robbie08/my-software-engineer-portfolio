@@ -6,7 +6,6 @@ function Footer(){
         <div className='footer-container' id='contact'>
             <section className='footer-header'>
                 <p className='footer-header-heading'>Connect with me on my social media accounts!</p>
-                <p className='footer-header-subheading'>Email: rortiz8838@sdsu.edu</p>
             </section>
             <section className='social-media'>
                 <div className='social-media-wrap'>
@@ -34,7 +33,17 @@ function Footer(){
                         >
                         <a href="https://github.com/Robbie08" rel="noreferrer" target="_blank"><i class="fab fa-github-square"></i></a>
                         </Link>
+                        <Link className="social-icon-link Email"
+                        to='/'
+                        target='_blank'
+                        aria-label='Email'
+                        >
+                        <a href="mailto:rortiz8838@sdsu.edu" rel="noreferrer" target="_blank"><i class="fas fa-mail-bulk"></i></a>
+                        </Link>
                     </div>     
+
+                    
+
                 </div>
             </section>
         </div>

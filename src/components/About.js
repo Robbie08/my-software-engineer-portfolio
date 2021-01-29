@@ -17,10 +17,10 @@ function About(){
                 Artificial Intelligence and Natural Language Processing. 
                 </p>
                 <p className='about-bio-paragraph'>
-                I have worked at a local tutoring center specializing in Computer Science, 
-                Math, and Physics. Besides academics, I have also <b>worked as a Freelance 
+                I currently work as a <b>Teaching Assistant (TA)</b> for <b>The Computer Science Department</b> at <b>San Diego State Univeristy</b>.
+                Besides academia, I have also worked as a <b>Freelance 
                 Software Engineer</b> for a local Keller Williams Realtor. I have also accepted 
-                an offer as a <b>Software Engineering Intern at Mitchell International</b> for the 
+                an offer as a <b>Software Engineering Intern</b> at <b>Mitchell International</b> for the 
                 Summer of 2021.
                 </p>
                 <p className='about-bio-paragraph'>
