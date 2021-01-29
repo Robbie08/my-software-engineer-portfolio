@@ -10,7 +10,7 @@ function About(){
                 <p className='about-bio-paragraph'>
                 I'm a Junior at <b>San Diego State University</b> working towards earning a <b>B.S. 
                 in Computer Science</b>. My passion for Computer Science started with a simple 
-                Hello World program in C++. Since then, I have worked on countless <b>Mobile</b> 
+                Hello World program in C++. Since then, I have worked on countless <b>Mobile </b> 
                 and <b>Web applications</b>, allowing me to learn new languages, tools, and frameworks 
                 like <b>Java, JavaScript, React.js, Python, Git</b>, and a couple of other ones.
                 I have recently started delving into the world of 
