@@ -19,13 +19,6 @@ function Footer(){
                         <a href="https://www.linkedin.com/in/roberto-ortiz-/" rel="noreferrer" target="_blank"><i className='fab fa-linkedin'></i></a>
                             
                         </Link>
-                        <Link className="social-icon-link instagram"
-                        to='/'
-                        target='_blank'
-                        aria-label='Instagram'
-                        >
-                        <a href="https://www.instagram.com/roberto.ortiz08/" rel="noreferrer" target="_blank"><i class="fab fa-instagram"></i></a>
-                        </Link>
                         <Link className="social-icon-link Github"
                         to='/'
                         target='_blank'

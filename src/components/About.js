@@ -21,13 +21,14 @@ function About(){
                 Besides academia, I have also worked as a <b>Freelance 
                 Software Engineer</b> for a local Keller Williams Realtor. I have also accepted 
                 an offer as a <b>Software Engineering Intern</b> at <b>Mitchell International</b> for the 
-                Summer of 2021.
+                Summer of 2021. Unfortunatley my internship program for this summer has been canceled, but I am exited of what new opportunities
+                are to come.
                 </p>
                 <p className='about-bio-paragraph'>
                 Besides my computer science knowledge, three things that make me an effective 
                 software engineer are that <b>I am an excellent communicator</b>, <b>always eager to 
                 learn more</b>, and <b>very pragmatic</b>. Since I will graduate in May 2022, <b>I am 
-                actively seeking new graduate opportunities as a Software Engineer</b>. 
+                actively seeking an internship role as a Software Engineer</b>. 
                 If my background aligns with the type of engineer you are searching for, 
                 then please contact me. If you're not convinced yet, then please check out 
                 my LinkedIn or resume. 

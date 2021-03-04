@@ -25,9 +25,10 @@ function Cards(){
                     src='images/work_TA.png'
                     title='Computer Science T.A.'
                     text="I am a Teaching Assistant at the Computer Science Department
-                    at San Diego State University. There I hold office hours where I can
-                    help students with any trouble they may have with the course material.
-                    I also spend time, grading programming assignments and exams."
+                    at SDSU. I write Java utilities that act as tools for students to 
+                    use in their programs. I also write programs that test and validate the 
+                    student's programming assignments. I hold office hours where I can help improve
+                    students understanding of Data Structures and Java."
                     label='Work'
                     path='https://www.linkedin.com/in/roberto-ortiz-/' />
 
@@ -42,6 +43,8 @@ function Cards(){
 
                 </ul>
                 <ul className='cards__items'>
+
+
                     <CardItem 
                     src='images/project-random-nums.PNG'
                     title='Random Numbers'
