@@ -58,7 +58,7 @@ function Navbar() {
                                 offset={-70}
                                 duration={800}
                                 onClick={closeNavBar}
-                            >My Projects</Link>
+                            >Experience</Link>
                         </li>
                         <li className='nav-item'>
                             <Link 

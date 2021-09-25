@@ -7,19 +7,20 @@ function Cards(){
     return(
         <div className='cards' id='my_projects'>
             <div className='cards__header'>
-                <h1>My Projects</h1>
+                <h1>My Experience</h1>
             </div>
             
             <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem 
-                    src='images/project-github-logo.jpg'
-                    title='Vehicle Manager'
-                    text='This Android Application incorporates CRUD functionallity on a Vehicle Management System.
-                    I utilized the M.V.C. desing patern, Java, XML, and Firebase Webservices to bulid the application
-                    and Espresso to conduct testing.'
-                    label='Project'
-                    path='https://github.com/Robbie08/VehicleManager' />
+                    src='images/ViaSat_Logo.jpg'
+                    title='Software Engineer Intern'
+                    text='I worked on the Satellite Applications Team which is responsible for facilitating ground and
+                    satellite communication. I spent the summer working on a monitoring and logging system that enhanced
+                    the understanding, security od the system as well as improved bug tracking in the Satellite Application Services. During
+                    my internship I learned and utilized valuable skills such as Golang, Kubernetes, Docker, Jenkins, and Postman. '
+                    label='Work Experience'
+                    path='https://www.linkedin.com/in/roberto-ortiz-/' />
 
                     <CardItem 
                     src='images/work_TA.png'
@@ -29,7 +30,7 @@ function Cards(){
                     use in their programs. I also write programs that test and validate the 
                     student's programming assignments. I hold office hours where I can help improve
                     students understanding of Data Structures and Java."
-                    label='Work'
+                    label='Work Experience'
                     path='https://www.linkedin.com/in/roberto-ortiz-/' />
 
                     <CardItem 
