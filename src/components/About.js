@@ -24,7 +24,7 @@ function About(){
                 <b> Viasat Inc</b> as a <b> Software Engineer</b>. There I worked on the team responsible for facilitating
                 ground and satellite communication. Throughout my summer at Viasat,I learned Agile and Scrum 
                 methedolgies and utilizied technologies like 
-                <b> Golang(Go), Kuberentes(k8s), Docker, Jenkinks, and DruidSQL</b>.
+                <b> Golang(Go), Kuberentes, Docker, Jenkins, and DruidSQL</b>.
                 </p>
                 <p className='about-bio-paragraph'>
                 Besides my computer science knowledge, three things that make me an effective 
