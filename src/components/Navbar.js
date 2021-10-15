@@ -76,7 +76,7 @@ function Navbar() {
 
                         <li className='nav-item'>
                             <a 
-                                href='https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:0e972b23-4531-4714-b4eb-f816b916e493'
+                                href='https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:fa6dc034-2698-466c-a3ed-2ef0abbb2e54'
                                 rel="noreferrer" 
                                 target="_blank"
                                 className='nav-links'
