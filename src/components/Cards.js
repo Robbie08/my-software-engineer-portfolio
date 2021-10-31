@@ -29,7 +29,7 @@ function Cards(){
                     at SDSU. I write Java utilities that act as tools for students to 
                     use in their programs. I also write programs that test and validate the 
                     student's programming assignments. I hold office hours where I can help improve
-                    students understanding of Data Structures and Java."
+                    students understanding of Data Structures in C++ and Java."
                     label='Work Experience'
                     path='https://www.linkedin.com/in/roberto-ortiz-/' />
 
@@ -37,8 +37,8 @@ function Cards(){
                     src='images/project-aiclub.jpg'
                     title='A.I. Club Project Lead'
                     text="I'm a project lead at the SDSU Artificial Intelligence Club.
-                    I led a project where we used Data Maniupulation and Machine Leaning models to 
-                    built income prediction models."
+                    I led a project where we used Data Manipulation and Supervised Learning Machine Learning Algorithms to 
+                    build income prediction models."
                     label='Club Affilication'
                     path='https://github.com/Robbie08/income-prediction' />
 
@@ -69,9 +69,8 @@ function Cards(){
                     <CardItem 
                     src='images/project-codeday-hackathon.jpg'
                     title='Hackathon'
-                    text='Participated in the Codeday Hackathon 
-                    and won the "Best Mobile Application" award 
-                    out of 60 teams by creating a social motivation 
+                    text='Won "Best Mobile Application" award 
+                    out of 60 teams at Code Day Hackathon by creating a social motivation 
                     Android Application. My team and I engineered a mobile 
                     CRUD application using Java, Firebase, XML, and Agile.'
                     label='Hackathon'
