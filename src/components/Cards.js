@@ -12,6 +12,17 @@ function Cards(){
             
             <div className='cards__wrapper'>
                 <ul className='cards__items'>
+                    
+                    <CardItem 
+                    src='images/work_teradata.jpg'
+                    title='Teradata'
+                    text={`As a Teradata software engineer, I've honed expertise in distributed systems and cloud giants like AWS, Azure, and Google Cloud.
+                    My coding toolkit features Java, Golang, and Python - the trio behind my resilient and scalable software creations.
+                    A standout was my leadership in fortifying our distributed realm against brute force attacks, enriched by my
+                    software engineering and design prowess. Get in contact with me to learn more about my experiences.`}
+                    label='Work Experience'
+                    path='https://www.linkedin.com/in/roberto-ortiz-/'/>
+                    
                     <CardItem 
                     src='images/ViaSat_Logo.jpg'
                     title='Software Engineer Intern'
@@ -33,15 +44,6 @@ function Cards(){
                     label='Work Experience'
                     path='https://www.linkedin.com/in/roberto-ortiz-/' />
 
-                    <CardItem 
-                    src='images/project-aiclub.jpg'
-                    title='A.I. Club Project Lead'
-                    text="I'm a project lead at the SDSU Artificial Intelligence Club.
-                    I led a project where we used Data Manipulation and Supervised Learning Machine Learning Algorithms to 
-                    build income prediction models."
-                    label='Club Affilication'
-                    path='https://github.com/Robbie08/income-prediction' />
-
                 </ul>
                 <ul className='cards__items'>
 
@@ -56,15 +58,14 @@ function Cards(){
                     path='http://random-numbers-facts.herokuapp.com/' />
 
                     <CardItem 
-                    src='images/project-parksmart.png'
-                    title='Park Smart'
-                    text='A brainchild of mine, this 
-                    is an Android parking application 
-                    for university students and faculty 
-                    to find available parking spaces. 
-                    I used Java, XML, Firebase Webservices and the Google Maps API.'
-                    label='Project'
-                    path='https://github.com/Robbie08/ParkSmart' />
+                    src='images/project-aiclub.jpg'
+                    title='A.I. Club Project Lead'
+                    text="I'm a project lead at the SDSU Artificial Intelligence Club.
+                    I led a project where we used Data Manipulation and Supervised Learning Machine Learning Algorithms to 
+                    build income prediction models."
+                    label='Club Affilication'
+                    path='https://github.com/Robbie08/income-prediction' />
+
 
                     <CardItem 
                     src='images/project-codeday-hackathon.jpg'

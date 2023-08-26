@@ -8,34 +8,28 @@ function About(){
             </section>
             <section className='about-bio'>
                 <p className='about-bio-paragraph'>
-                I'm a senior at <b>San Diego State University</b> and I will attain my <b>B.S. 
-                in Computer Science</b> in June 2022. My passion for 
-                Computer Science started with a simple I/O program in <b>C++</b>. 
-                Since then, I have worked on countless <b>Mobile/Web applications</b> and 
-                <b> services</b>, allowing me to learn new languages, tools, and frameworks 
-                like <b>Golang(Go), C/C++, Java, JavaScript, React.js, Python, Git</b>, and many more.
-                I have recently started delving into the world of 
-                Backend Software Engineering and currently, I am working on a microservice that will scrape links
-                from any targeted websites and provide them to the user.  
+                With a simple C++ program, my passion for Computer Science ignited, leading me to build numerous 
+                Services and Mobile/Web applications. Through hands-on experience, I've continuously honed my skills 
+                and delved into a wide array of languages, tools, and frameworks, including AWS, Golang, C/C++, Java, 
+                JavaScript, React.js, Python, Git, Kubernetes, Docker, and more. 
+                As I graduated, my focus shifted to becoming a specialized backend software engineer, with a strong 
+                emphasis on distributed systems in the cloud.
                 </p>
                 <p className='about-bio-paragraph'>
-                I currently work as a <b>Teaching Assistant (TA)</b> for <b>The Computer Science Department</b> at <b>
-                San Diego State Univeristy</b>.
-                Besides academia, I am also experienced in the field. I recently completed a summer internship with 
-                <b> Viasat Inc</b> as a <b> Software Engineer</b>. There I worked on the team responsible for 
-                facilitating ground and satellite communication. Throughout my summer at Viasat, I learned Agile 
-                and Scrum 
-                methodologies and utilized technologies like 
-                <b> Golang(Go), Kubernetes, Docker, Jenkins, and DruidSQL</b>.
+                As a software engineer, I bring a powerful combination of technical expertise, effective communication 
+                skills, an insatiable thirst for knowledge, and a pragmatic problem-solving approach. 
+                These qualities enable me to seamlessly collaborate with teams and drive impactful results.
                 </p>
                 <p className='about-bio-paragraph'>
-                Besides my computer science knowledge, three things that make me an effective software engineer 
-                are that I am an excellent communicator, always eager to learn more, and very pragmatic. 
-                <b> I am actively seeking a New-Graduate Software Engineer position, preferably on the Backend 
-                or Fullstack. </b>
-                If my background aligns with the type of engineer you are searching for, 
-                please don't hesitate to contact me. If you're not convinced yet, then please check out 
-                my LinkedIn or resume. 
+                When I'm not coding, you'll often find me immersed in the exhilarating world of soccer, both as an 
+                avid spectator and an enthusiastic player. The teamwork and competitive spirit of the 
+                game inspire me to excel on and off the field.
+                </p>
+                <p className='about-bio-paragraph'>
+                If you're seeking a backend-focused Software Engineer with deep expertise in distributed systems 
+                in the cloud, I warmly invite you to connect with me. Let's explore how my background aligns with 
+                your engineering needs and kick-start exciting projects together. For more information, 
+                feel free to visit my LinkedIn profile or refer to my resume.
                 </p>
             </section>
         </div>

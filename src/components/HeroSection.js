@@ -9,7 +9,7 @@ function HeroSection (){
         <div className='hero-container'>
             <video src='/videos/video2.mp4' autoPlay loop muted />
             <h1>Hi, need a Software Engineer?</h1>
-            <p>I am a motived student that is always looking for a challenge</p>
+            <p>I'm skilled in hybrid-cloud distributed systems; together, let's reshape success by creating remarkable projects</p>
             <div className="hero-btns">
                 <Button scrollTo='my_projects' className='btns' buttonStyle='btn--outline' buttonsSize='btn--large' >
                     Experience
