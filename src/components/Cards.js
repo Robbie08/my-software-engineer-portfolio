@@ -15,7 +15,7 @@ function Cards(){
                     
                     <CardItem 
                     src='images/work_teradata.jpg'
-                    title='Teradata'
+                    title='Software Engineer'
                     text={`As a Teradata software engineer, I've honed expertise in distributed systems and cloud giants like AWS, Azure, and Google Cloud.
                     My coding toolkit features Java, Golang, and Python - the trio behind my resilient and scalable software creations.
                     A standout was my leadership in fortifying our distributed realm against brute force attacks, enriched by my
@@ -49,13 +49,14 @@ function Cards(){
 
 
                     <CardItem 
-                    src='images/project-random-nums.PNG'
-                    title='Random Numbers'
-                    text="This React application uses the Numbers API to 
-                    generate random facts about numbers. I created this 
-                    application to practice consuming API's with React.js."
+                    src='images/webscraper-1.jpg'
+                    title='Web Scraper'
+                    text="I developed a real-time custom web scraping service using Golang. 
+                    Initially a personal hobby project, I had the opportunity to present it during one of 
+                    my senior seminars at SDSU. Click the image above to access the presentation, 
+                    where I delve deep into the world of web scraping."
                     label='Project'
-                    path='http://random-numbers-facts.herokuapp.com/' />
+                    path='https://www.youtube.com/watch?v=ZM0JVgEDbBM' />
 
                     <CardItem 
                     src='images/project-aiclub.jpg'
